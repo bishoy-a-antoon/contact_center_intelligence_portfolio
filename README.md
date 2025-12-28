@@ -16,7 +16,7 @@ This reflects how real-world BPO and enterprise contact centers operate and how 
 
 ## Project Scope
 The simulated operation represents:
-* An **inbound support + retention** contact center
+* An inbound support + retention contact center
 * Voice channel only (to maintain analytical clarity)
 * Single-site operation
 * Medium-scale workforce
